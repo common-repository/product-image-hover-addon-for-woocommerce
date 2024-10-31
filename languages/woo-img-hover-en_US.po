@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Image Hover Addon For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-08 09:53+0000\n"
+"PO-Revision-Date: 2023-04-08 09:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: product-img-hover-wc"
+
+#: woo-product-image-hover.php:49
+#, php-format
+msgid ""
+"The %1$sWoocommerce Product Image Hover%2$s plugin requires "
+"%1$sWooCommerce%2$s plugin active to run properly. \n"
+"        Please install %1$sWooCommerce%2$s and activate"
+msgstr ""
+
+#: includes/woo-adminend-image-action.php:34
+msgid "Product Additional Image"
+msgstr ""
+
+#: includes/woo-adminend-image-action.php:51
+msgid "Product Hover Image"
+msgstr ""
+
+#: includes/woo-adminend-image-action.php:58
+msgid "Select Image"
+msgstr ""
+
+#: includes/woo-adminend-image-action.php:60
+msgid "Remove Image"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Image Hover - Woocommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin help to create an image hover on woocommerce featured image."
+msgstr ""
+
+#. Author of the plugin
+msgid "Narinder Singh Bisht"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://narindersingh.in"
+msgstr ""
